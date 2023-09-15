@@ -1,0 +1,3 @@
+Z:/Biblioteca/Documentos/My Projects/C/CalcFat/cmake-build-debug/CMakeFiles/CalcFat.dir
+Z:/Biblioteca/Documentos/My Projects/C/CalcFat/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/Biblioteca/Documentos/My Projects/C/CalcFat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
